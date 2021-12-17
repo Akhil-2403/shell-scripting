@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## comment for understanding
+# comment for understanding
 
 ls
 cat
